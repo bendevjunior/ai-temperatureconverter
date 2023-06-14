@@ -2,6 +2,13 @@
 
 Este é um projeto de demonstração que utiliza inteligência artificial para converter temperaturas de graus Celsius para Fahrenheit. O objetivo deste projeto é treinar um modelo de aprendizado de máquina para prever a temperatura em Fahrenheit com base na temperatura em graus Celsius.
 
+## Arquitetura da Rede Neural
+
+![Arquitetura da Rede Neural](arquitetura-rede-neural.svg)
+
+A arquitetura da rede neural para a conversão de graus Celsius para Fahrenheit é representada no diagrama acima. A camada de entrada recebe o grau Celsius como entrada, passa pela camada oculta, representada pelo neurônio 1, e finalmente produz o grau Fahrenheit na camada de saída.
+
+
 ## Requisitos
 
 - Python 3
